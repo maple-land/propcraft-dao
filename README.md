@@ -1,1 +1,1 @@
-# props
+# Props and Crafts DAO
